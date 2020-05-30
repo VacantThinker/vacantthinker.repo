@@ -4,7 +4,7 @@ module.exports = {
   favicon: 'img/favicon.ico',
   url: 'https://vacantthinker.github.io',
   baseUrl: '/vacantthinker.repo/',
-  projectName: 'vacantthinker.github.io',
+  projectName: 'vacantthinker.repo',
   organizationName: 'vacantthinker',
 
   themeConfig: {
